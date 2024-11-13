@@ -1,4 +1,3 @@
 *.exe
 *.swp
-/quickjs/
 qjs_test
